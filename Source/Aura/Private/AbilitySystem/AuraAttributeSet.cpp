@@ -1,10 +1,8 @@
 // Copyright by Vishnu Suresh
 
-
 #include "AbilitySystem/AuraAttributeSet.h"
 #include "AbilitySystemComponent.h"
 #include "Net/UnrealNetwork.h"
-
 
 UAuraAttributeSet::UAuraAttributeSet()
 {
